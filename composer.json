@@ -1,0 +1,13 @@
+{
+    "name": "habilds/ajita-mongo",
+    "require": {
+        "mongodb/mongodb": "^1.7",
+        "linfo/linfo": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Andi Habil",
+            "email": "hbildsdsds@gmail.com"
+        }
+    ]
+}
